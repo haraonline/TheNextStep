@@ -5,11 +5,11 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_LINQ", "01_LINQ\01_LINQ.csproj", "{BB170A24-85FC-4EEB-93CF-7667A43777FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_LambdaExpressions", "02_LambdaExpressions\02_LambdaExpressions.csproj", "{42B5B4BD-6234-4784-8403-098C8E92EA51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_LambdaExpressions", "02_LambdaExpressions\02_LambdaExpressions.csproj", "{42B5B4BD-6234-4784-8403-098C8E92EA51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_ExtensionMethods", "03_ExtensionMethods\03_ExtensionMethods.csproj", "{8237610D-5406-47CE-840A-F4AB8F4AEA7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_ExtensionMethods", "03_ExtensionMethods\03_ExtensionMethods.csproj", "{8237610D-5406-47CE-840A-F4AB8F4AEA7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Generics", "04_Generics\04_Generics.csproj", "{8CB16777-C616-4EDE-B8B1-F50BE6CB60EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_Generics", "04_Generics\04_Generics.csproj", "{8CB16777-C616-4EDE-B8B1-F50BE6CB60EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
